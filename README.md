@@ -6,7 +6,7 @@ This is a react based news-reader web application. A fully voice controlled appl
 
 ## Setup:
 ### `npm install`
-To install Node modules
+To install dependencies
 
 ### `npm start`
 
